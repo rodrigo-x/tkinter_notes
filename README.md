@@ -1,2 +1,4 @@
-# tkinter_notes
-bloco de notas em tkinter
+# Bloco de Notas em Tkinter
+
+Bloco de notas em Tkinter
+
