@@ -1,4 +1,4 @@
-# Bloco de Notas em Tkinter
+# Bloco de Notas
 
 Bloco de notas em Tkinter
 
